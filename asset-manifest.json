@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/portfolio2/static/js/main.d70c6ae0.js",
+    "main.js": "/portfolio2/static/js/main.e110e141.js",
     "static/media/career_5.JPG": "/portfolio2/static/media/career_5.ade83e96b0a52d5f1a8a.JPG",
     "static/media/2015Seminar.JPG": "/portfolio2/static/media/2015Seminar.da0242c513da7ac7c868.JPG",
     "static/media/career_4.JPG": "/portfolio2/static/media/career_4.ded50c35af4b21e46a56.JPG",
@@ -12,9 +12,9 @@
     "static/media/NYU_1.JPG": "/portfolio2/static/media/NYU_1.9f3f1b88f5c69db360ac.JPG",
     "static/media/career_1.JPG": "/portfolio2/static/media/career_1.10788791332daf6544f9.JPG",
     "index.html": "/portfolio2/index.html",
-    "main.d70c6ae0.js.map": "/portfolio2/static/js/main.d70c6ae0.js.map"
+    "main.e110e141.js.map": "/portfolio2/static/js/main.e110e141.js.map"
   },
   "entrypoints": [
-    "static/js/main.d70c6ae0.js"
+    "static/js/main.e110e141.js"
   ]
 }
